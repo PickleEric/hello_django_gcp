@@ -1,6 +1,5 @@
 from django.shortcuts import render, HttpResponse
 
-# Create your views here.
-
+#hello-django-310602
 def hello(request):
-    return HttpResponse('Hello GCP!')
+    return HttpResponse('Hello Everybody!')
